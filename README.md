@@ -1,3 +1,3 @@
 # samplePublicRepo
 samplePublicRepo for PR Trigger 
-PRTrigger 1
+for PRTrigger 1
